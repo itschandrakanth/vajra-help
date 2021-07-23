@@ -6,7 +6,7 @@ new Docute({
   nav: [
     {
       title: 'Home',
-      link: '/'
+      link: 'https://vajra.ai'
     },
     {
       title: 'About',
@@ -28,7 +28,14 @@ new Docute({
         {
           title: 'Chatbot Types',
           link: '/chatbot-types'
-        }
+        
+        },
+        {
+          title: 'Special to Vajra',
+          link: '/special-to-vajra'
+        },
+
+        
       ]
     }
   ]
