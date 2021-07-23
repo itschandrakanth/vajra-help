@@ -22,10 +22,62 @@ Allow me to take you through some of the features that you getwith our solution 
   
 ● **Hybrid Chat Solution**:Your team   can manually take control of the chat as well.
 
- o  Live video calling from within  the   chatbot for maximum customer       engagement and reach outspeed.
+ o  Live video calling from within  the chatbot for maximum customer       engagement and reach outspeed.
 
 ● **Multi-Lingual Support**: Support of over 120+ languages where   customer   can   interact   in   their   own   preferredlanguage
 
 ● **Contextual Options**:  Virtual Assistant understands the customer needs and prompts relevant questions
- oIf   customers  for   location,   they  are  prompted  withother location based USPsoIf customers ask for pricing, they are prompted withcontextual options related to priceoSame goes around for every query. Helps educatethe customer about coursesoDoes 80% job of pre-sales team●Lead Ranking: We rank the leads so that your team canprioritize the most interested customer first and increaseefficiency●Automated   Lead   Nurturing   (sales   marketingautomation):   We   offer   completely   automated,multichannel and a personalized experienceoCompletely automated cycleoMulti-channel support of SMS, Email and WhatsAppoHyper-personalized messages based on customer'spreference like course, fee, location etc.●Hot-Lead Notification:  Notify your team about a hot-lead where they can manually speak to the client Evenwhen they're on the move!oInstant connect between sales & clientoCalls and leads can be routed to the right agents forthe right courseoIf the same customer requests a call again, the agentwho spoke previously is prioritizedoNotifications on Web, Email and Phone●CRM Integration: All the activity and data are directlyexported to your CRMoEases the work-flow of data entryoExports a complete customer profile to the CRMoAllows the sales team to focus more on "sales" andnot on other tasksoNative support of 200+ CRMs●Feature Rich Dashboard: Data at your fingertips withinseconds!
-oGet   detailed   insights   of   the   conversations   andactivity from your preferred date range●Google Analytics and Facebook Pixel Integration: Tohelp you keep track of your marketing campaigns●Message Analysis: Deep-dive analytics of messages tohelp you understand customer needsoCore key-words used in chats can be used as keywords in marketing campaignsoCan tailor the data for the most frequently askedquestions/words●Marketing campaign tracker:  One   stop   solution   toanalyze which campaigns are doing better than the otheroTrack marketing campaigns, UTM campaignsoUTM lead sources●Lead-source tracking: Keep track of the lead source tounderstand the effectiveness of campaigns
+
+ o If   customers  for   location,   they  are  prompted  withother location based USPs 
+
+ o If customers ask for pricing, they are prompted with contextual options related to price
+
+ o Same goes around for every query. Helps educatethe customer about courses
+ 
+ o Does 80% job of pre-sales team
+
+  ●**Lead Ranking**: We rank the leads so that your team canprioritize the most interested customer first and increase efficiency
+
+  ●**Automated   Lead   Nurturing   (sales   marketing automation)**:   We   offer   completely   automated,multichannel and a personalized experience 
+   o Completely automated cycle
+
+   o Multi-channel support of SMS, Email and WhatsApp
+   
+   o Hyper-personalized messages based on customer's preference like course, fee, location etc.
+   
+●**Hot-Lead Notification**:  Notify your team about a hot-lead where they can manually speak to the client Evenwhen they're on the move!
+
+ o Instant connect between sales & client
+
+ o Calls and leads can be routed to the right agents forthe right course
+
+ o If the same customer requests a call again, the agent who spoke previously is prioritized
+
+ o Notifications on Web, Email and Phone 
+ 
+●**CRM Integration**: All the activity and data are directly exported to your CRM
+  o Eases the work-flow of data entryoExports a complete customer profile to the CRM
+
+  o Allows the sales team to focus more on "sales" andnot on other tasks
+
+  o Native support of 200+ CRMs
+
+●**Feature Rich Dashboard**: Data at your fingertips within seconds!
+
+ o Get   detailed   insights   of   the   conversations   and activity from your preferred date range
+ 
+**●Google Analytics and Facebook Pixel Integration**: To help you keep track of your marketing campaigns
+
+●**Message Analysis**: Deep-dive analytics of messages to help you understand customer needs
+
+ o Core key-words used in chats can be used as keywords in marketing campaigns
+
+ o Can tailor the data for the most frequentlyasked questions/words
+ 
+●**Marketing campaign tracker**:  One   stop   solution   to analyze which campaigns are doing better than the other
+
+  o Track marketing campaigns, UTM campaigns
+
+  o UTM lead sources
+
+●**Lead-source tracking**: Keep track of the lead source tounderstand the effectiveness of campaigns
