@@ -24,6 +24,10 @@ new Docute({
         {
           title: 'How Chatbots work',
           link: '/how-chatbots-work'
+        },
+        {
+          title: 'Chatbot Types',
+          link: '/chatbot-types'
         }
       ]
     }

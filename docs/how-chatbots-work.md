@@ -27,3 +27,20 @@ Within a chatbot, an entity, or slot, modifies user intent. Chatbot entities are
 Entities can be fields, data, or text describing just about anything — a time, place, person, item, number, etc. Using natural language processing (NLP), chatbots can extract entities from entries that users type in in order to turn around accurate recommendations and answers.
 
 An _entity_ modifies an intent. For example, if a user types “show me yesterday’s financial news”, the entities are “yesterday” and “financial”. Entities are given a name, such as “dateTime” and “newsType”. Entities are sometimes referred to as _slots_.
+
+## Intelligent Bot:
+
+An intelligent chatbot is backed by the power of AI and is programmed with ML support. Chatbots are fed with information that needs to be merely observed and updated for dissemination to customers via an agent or self-service assistance. A chatbot can be integrated at any front with the website or mobile application for the enterprise. Chatbots can thus pick the query and use NLP to formulate responses in a conversational tone.
+
+**Features of an Intelligent Chat Bot:**
+ - NLP Conversations
+ - Omnichannel Integration 
+ - Training and Operation
+ - Human Support
+
+Advantages and Benefits of AI Chat Bots:
+ - Customization
+ - No coding creation
+ - Improved CX
+ - Omni-present
+ - Actionable Insights
