@@ -30,7 +30,7 @@ new Docute({
           link: '/chatbot-types'
         
         },
-        {
+      {
           title: 'Special to Vajra',
           link: '/special-to-vajra'
         },
@@ -38,5 +38,12 @@ new Docute({
         
       ]
     }
-  ]
+
+  ],
+  sidebar: [
+    {
+      title: 'Special to Vajra',
+      link: '/special-to-vajra'
+    },
+  ] ,
 })
