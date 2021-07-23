@@ -22,8 +22,8 @@ new Docute({
           link: '/introduction'
         },
         {
-          title: 'Installation',
-          link: '/installation'
+          title: 'How Chatbots work',
+          link: '/how-chatbots-work'
         }
       ]
     }
