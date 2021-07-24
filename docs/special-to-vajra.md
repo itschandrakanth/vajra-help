@@ -1,4 +1,5 @@
 # Special to Vajra:
+
 We have a wide range of features in our basket which are carefully designed from our unmatched expertise of working in the Education sector.
 
 ● **Better engagement** with parents and students
@@ -71,9 +72,9 @@ Allow me to take you through some of the features that you getwith our solution 
 
 ● **Message Analysis**: Deep-dive analytics of messages to help you understand customer needs
 
- o Core key-words used in chats can be used as keywords in marketing campaigns
+  o Core key-words used in chats can be used as keywords in marketing campaigns
 
- o Can tailor the data for the most frequentlyasked questions/words
+  o Can tailor the data for the most frequentlyasked questions/words
  
 ● **Marketing campaign tracker**:  One   stop   solution   to analyze which campaigns are doing better than the other
 
