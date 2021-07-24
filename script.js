@@ -41,6 +41,18 @@ new Docute({
 
         
       ]
+    },
+    {
+      title: 'Why Vajra?',
+      links: [
+        {
+          title: 'Special to Vajra',
+          link: '/special-to-vajra'
+        }
+        
+
+        
+      ]
     }
 
   ],
