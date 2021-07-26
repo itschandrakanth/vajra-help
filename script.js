@@ -49,7 +49,19 @@ new Docute({
 
         
       ]
-    }
+      
+    },
+    {
+      title: 'Googel Dialogflow integration?',
+      links: [
+        {
+          title: 'Add your bot',
+          link: '/add-your-bot'
+        }
+      ]
+
+    },
+    
 
   ],
 
