@@ -27,7 +27,7 @@ Fill the necessary details and you can skip optional details and click on **done
 8.After clicking on **create new key**, you will be getting popup to create **private key** for your bot as shown below. Make sure you tick mark is on *JSON* and then click on create
 ![json](https://ik.imagekit.io/oeeysgepuyd/vajra/docs/8_f9JwmirFj.PNG)
  
-9.After clicking on create ,the JSON file will be downloaded .Lastly in service accounts copy the email and in search type IAM .
+9.After clicking on **create ,the JSON file will be downloaded .Lastly in service accounts copy the email and in search type IAM .
 ![copy service acccount](https://ik.imagekit.io/oeeysgepuyd/vajra/docs/9_0IqrwbE85.png)
  
 10.In IAM page click on ADD 
