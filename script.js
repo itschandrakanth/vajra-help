@@ -52,7 +52,7 @@ new Docute({
       
     },
     {
-      title: 'Google Dialogflow integration?',
+      title: 'Google Dialogflow integration',
       links: [
         {
           title: 'Add your bot',

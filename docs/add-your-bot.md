@@ -1,4 +1,4 @@
-# How to add google dialogflow bot to vajra
+# How to add google dialogflow bot to **Vajra**
 
 1.After creating an agent in dialogflow ,click on **settings** for that agent.
 
@@ -27,17 +27,21 @@ Fill the necessary details and you can skip optional details and click on **done
 8.After clicking on **create new key**, you will be getting popup to create **private key** for your bot as shown below. Make sure you tick mark is on *JSON* and then click on create
 ![json](https://ik.imagekit.io/oeeysgepuyd/vajra/docs/8_f9JwmirFj.PNG)
  
-9.After clicking on **create ,the JSON file will be downloaded .Lastly in service accounts copy the email and in search type IAM .
+9.After clicking on **create**,the *JSON* file will be downloaded.Lastly, in service accounts copy the email and in search type *IAM* .
 ![copy service acccount](https://ik.imagekit.io/oeeysgepuyd/vajra/docs/9_0IqrwbE85.png)
  
-10.In IAM page click on ADD 
+10.In *IAM* page click on **ADD** 
  ![add member](https://ik.imagekit.io/oeeysgepuyd/vajra/docs/10_9l6MrvwEV.PNG)
 
-11.You will having a side menu to add new member and in New members add the copied email and select role as owner and ADD ANOTHER ROLE as Dialogflow API Admin and click on save.
+11.You will having a side menu to add new member and in **New members** add the copied email and select role as **owner** and *ADD ANOTHER ROLE* as **Dialogflow API Admin** and click on *save*.
  ![add member](https://ik.imagekit.io/oeeysgepuyd/vajra/docs/11_51IPxU_tf.PNG)
 
-12.ADD your bot to vajra by giving the all necessary details and in JSON add the file you downloaded 
+12.ADD your bot to vajra by giving the all necessary details and in **credentials JSON file** add the *JSON* file you downloaded 
  
  ![loggin in](https://ik.imagekit.io/oeeysgepuyd/vajra/docs/12_S3dehuoxG.PNG)
+   
+
+
+  Success! You have successfully added your bot to **Vajra**
 
 
