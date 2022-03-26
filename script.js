@@ -33,6 +33,10 @@ new Docute({
         {
           title: 'What Chatbots can Do',
           link: '/what-chat-bots-can-do-for-us'
+        },
+        {
+          title: 'How to Sign-in?',
+          link: '/how-to-sign-in'
         }
 
         
