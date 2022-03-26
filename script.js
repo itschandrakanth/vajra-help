@@ -37,9 +37,23 @@ new Docute({
         {
           title: 'How to Sign-in?',
           link: '/how-to-sign-in'
+        },
+        {
+          title: 'How to Sign-up?',
+          link: '/how-to-sign-up'
+        },
+        {
+          title: 'How to Create a Bot?',
+          link: '/how-to-create-a-bot'
+        },
+        {
+          title: 'How to Create a SmartUrl?',
+          link: '/how-to-create-smarturl'
+        },
+        {
+          title: 'How to Download Reports?',
+          link: '/how-to-download-reports'
         }
-
-        
       ]
     },
     {

@@ -1,6 +1,5 @@
-
-# How to Create Smarturl
-
+# How to Download Reports?
+&nbsp;
 ![enter image description here](https://i.ibb.co/XLVZyYT/download-reports-1.png)
 
 1) You can download required reports from your dashboard.

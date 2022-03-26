@@ -1,6 +1,5 @@
-
-# How to Create a SmartURL
-
+# How to Create a SmartURL?
+&nbsp;
 ![enter image description here](https://i.ibb.co/9Znj3xY/smarturl-1.png)
 
 1) Tap on the 'SmartURL' option on the side bar.
