@@ -23,4 +23,3 @@
 ![enter image description here](https://i.ibb.co/sHZcW9s/create-bot-6.png)
 
 6) Soon after tapping on "Save" button a 'Script tag' will be provided.
-```

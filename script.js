@@ -53,6 +53,10 @@ new Docute({
         {
           title: 'How to Download Reports?',
           link: '/how-to-download-reports'
+        },
+        {
+          title: 'How to Create Lead Funnel?',
+          link: '/how-to-create-lead-funnel'
         }
       ]
     },

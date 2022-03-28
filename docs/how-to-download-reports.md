@@ -11,4 +11,3 @@
 ![enter image description here](https://i.ibb.co/pJbSBV7/download-reports-3.png)
 
 3) Repeat the process for all sections in the dashboard.
-```

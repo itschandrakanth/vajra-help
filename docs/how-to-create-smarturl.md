@@ -15,4 +15,3 @@
 ![enter image description here](https://i.ibb.co/Y33bw6b/smarturl-3.png)
 
 4) Your SmartURL is generated and now you can use the URL for advanced insights. 
-```

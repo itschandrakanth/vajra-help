@@ -15,4 +15,3 @@
 ![enter image description here](https://i.ibb.co/D7mdvJ6/sign-in-2.png)
 
 4)You will be redirected to sign-in page and now you can now sign in using your google account.
-```
