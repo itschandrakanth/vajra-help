@@ -1,5 +1,10 @@
 # How to  Create a Bot?
 &nbsp;
+[![Create Bot Tutorial](https://i.ibb.co/GVLRYhG/Create-Bot-Video-Picture.png)](https://youtu.be/-NdSWqUyASE)
+Check out this tutorial to create a chatbot within minutes! 
+
+Instructions:
+
 ![enter image description here](https://i.ibb.co/f8Qg5bh/create-bot-1.png)
 
 1) First select the 'Bot Studio' option in the sidebar to access chatbot dashboard.
