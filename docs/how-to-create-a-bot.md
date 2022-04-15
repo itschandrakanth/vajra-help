@@ -1,6 +1,6 @@
 # How to  Create a Bot?
 &nbsp;
-[![Create Bot Tutorial](https://i.ibb.co/GVLRYhG/Create-Bot-Video-Picture.png)](https://youtu.be/-NdSWqUyASE)
+<iframe width="660" height="415" src="https://www.youtube.com/embed/zzWuAjU1vno" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Check out this tutorial to create a chatbot within minutes! 
 
