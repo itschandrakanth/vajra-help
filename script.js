@@ -11,6 +11,10 @@ new Docute({
     {
       title: 'About',
       link: '/about'
+    },
+    {
+      title: 'Whatsapp',
+      link: '/contacts-management'
     }
   ],
   sidebar: [
@@ -79,6 +83,16 @@ new Docute({
         {
           title: 'Add your bot',
           link: '/add-your-bot'
+        }
+      ]
+
+    },
+    {
+      title: 'Vajra Whatsapp',
+      links: [
+        {
+          title: 'Contacts Management',
+          link: '/contacts-management'
         }
       ]
 
